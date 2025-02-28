@@ -548,8 +548,6 @@ button:focus {
   fill: #f4f4fd;
 }
 
-/* ------------------------------------------------------ */
-
 .footer-form-text {
   font-weight: 500;
   font-size: 16px;
@@ -631,7 +629,7 @@ button .footer-form-btn {
 
 /* #endregion Footer */
 
-/* #region Modal window */
+/* #region Modal-window */
 .backdrop {
   position: fixed;
   top: 0;
@@ -671,7 +669,7 @@ button .footer-form-btn {
 .backdrop:not(.is-open) .modal {
   transform: translate(-50%, -100%);
 }
-/* #endregion Modal window */
+/* #endregion Modal-window */
 
 /* #region Modal */
 .btn-close {
@@ -716,7 +714,7 @@ button .footer-form-btn {
 }
 /* #endregion Modal */
 
-/* #region FORM */
+/* #region Form */
 
 .form {
   margin-bottom: 8px;
